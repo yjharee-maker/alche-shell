@@ -6,5 +6,6 @@
 5-listfilesdigitonly contains a script that has a long format list that shows a UID and GID numerically.
 6-firstdirectory contains a script that creates a dir in the tmp dir.
 7-movethatfile contains a script that moves the file betty from /tmp/ to /tmp/my_first_directory/
-8-firstdelete contains a script to delete a file.
+8-firstdelete contains a script to delete the file Betty.
+9-firstdirdeletion contains a script to delete the earlier directory created.
 
