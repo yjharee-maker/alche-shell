@@ -4,3 +4,4 @@
 3-listfiles contains a script to see the long form of a list for a directory.
 4-listmorefiles contains a script to see the long form of a list for a directory, including hidden files.
 5-listfilesdigitonly contains a script that has a long format list that shows a UID and GID numerically.
+6-firstdirectory contains a script that creates a dir in the tmp dir.
