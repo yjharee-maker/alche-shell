@@ -2,3 +2,4 @@
 1-listit contains a script to see the content of the current directory.
 2-bring_me_home contains a script that brings me back to home directory.
 3-listfiles contains a script to see the long form of a list for a directory.
+4-listmorefiles contains a script to see the long form of a list for a directory, including hidden files.
