@@ -11,4 +11,5 @@
 10-back contains a script to go back to the previous directory.
 11-lists contains a script to list the current dir, the precious dir, and the dir /boot.
 12-file_type contains a script that tells me the file type of a file called iamafile in the /tmp directory.
+13-symbolic_link contains a script for a softlink to /bin/ls called _ls_
 
