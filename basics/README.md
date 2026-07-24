@@ -10,4 +10,5 @@
 9-firstdirdeletion contains a script to delete the earlier directory created.
 10-back contains a script to go back to the previous directory.
 11-lists contains a script to list the current dir, the precious dir, and the dir /boot.
+12-file_type contains a script to add a file called iamafile to the /tmp/ dir.
 
