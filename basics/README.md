@@ -15,4 +15,4 @@
 14-copy_html contains a script for updating and adding all the HTML files in the current dir to the parent dir.
 15-lets_move contains a script for sending all files starting with a capital letter to the dir /tmp/u/
 16-clean_emacs contains a script for removing all files ending with ~ in a dir.
-
+17-tree contains a script that creates 3 dir ./welcome/to/school in the current dir.
