@@ -10,4 +10,5 @@
 9-John_Doe contains a script with permissions 753.
 10-mirror_permissions contains a script so that permissions of file hello is the same as file olleh.
 11-directories_permissions contains a script to have all sub-dir have the same permissions as the main dir bur the permissions of the files remain the same.
+12-directory_permissions contains a script that creates a directory, my_dir, that has permissions 751
 
