@@ -8,4 +8,5 @@
 7-everybody contains a script that lets everybody execute the file.
 8-James_Bond contains a script with permission 007.
 9-John_Doe contains a script with permissions 753.
+10-mirror_permissions contains a script so that permissions of file hello is the same as file olleh.
 
