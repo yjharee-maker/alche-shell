@@ -6,4 +6,5 @@
 5-execute contains a script to execute hello.
 6-multiple_permissions contains a script to add permissions 554 to file hello.
 7-everybody contains a script that lets everybody execute the file.
+8-James_Bond contains a script with permission 007.
 
