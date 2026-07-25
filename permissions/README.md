@@ -13,4 +13,5 @@
 12-directory_permissions contains a script that creates a directory, my_dir, that has permissions 751
 13-change_group contains a script that changes group ownership to school.
 14-change_owner_and_group contains a script that changes both the owner and group of all the files and sub dir in the current dir.
+15-symbolic_link_permissions contains a script that changes the ownership of a softlink but not the file it points to.
 
