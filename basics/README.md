@@ -13,4 +13,5 @@
 12-file_type contains a script that tells me the file type of a file called iamafile in the /tmp directory.
 13-symbolic_link contains a script for a softlink to /bin/ls called _ls_
 14-copy_html contains a script for updating and adding all the HTML files in the current dir to the parent dir.
+15-lets_move contains a script for sending all files starting with a capital letter to the dir /tmp/u/
 
