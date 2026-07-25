@@ -5,4 +5,5 @@
 4-lastlines display the last 10 lines of /etc/passwd
 5-firstlines display the first 5 lines of etc/passwd
 6-third_line contains a script that displays only the 3rd line of a file iacta
+7-file contains a script that creates a file containing 'Best School'
 
