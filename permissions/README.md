@@ -5,4 +5,5 @@
 4-empty contains a script to create a new file, hello.
 5-execute contains a script to execute hello.
 6-multiple_permissions contains a script to add permissions 554 to file hello.
+7-everybody contains a script that lets everybody execute the file.
 
