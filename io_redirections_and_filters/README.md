@@ -23,4 +23,5 @@
 22-users_and_homes writes a script that displays all users and their home directories, sorted by users, based on the the /etc/passwd file.
 23-empty_casks displays only the name of files or dirs that are empty from the current dir.
 24-gifs writes a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+25-acrostic contains a script that decodes acrostics that use the first letter of each line.
 
