@@ -14,4 +14,5 @@
 13-unique sort the words that come only once in a list.
 14-findthatword display lines containing the pattern "root" from the file /etc/passwd.
 15-countthatword display the no. of lines containig the pattern "bin" from the file etc/passwd
+16-whatsnext displays 3 lines after the line where pattern "root" is in the file etc/passwd
 
