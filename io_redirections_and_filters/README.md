@@ -17,4 +17,5 @@
 16-whatsnext displays 3 lines after the line where pattern "root" is in the file etc/passwd
 17-hidethisword displays all files in etc/passwd except those who contain "bin".
 18-letteronly displays all lines starting with letters in file /etc/ssh/sshd_config.
+19-AZ changes 'Ac' to 'Ze'.
 
