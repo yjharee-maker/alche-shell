@@ -7,4 +7,5 @@
 6-third_line contains a script that displays only the 3rd line of a file iacta
 7-file contains a script that creates a file containing 'Best School'
 8-cwd_state contains a script that creates or override a file to contain ls -la.
+9-duplicate_last_line contains a script that duplicates the last line of iacta
 
