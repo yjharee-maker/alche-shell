@@ -24,4 +24,4 @@
 23-empty_casks displays only the name of files or dirs that are empty from the current dir.
 24-gifs writes a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
 25-acrostic contains a script that decodes acrostics that use the first letter of each line.
-
+26-the_biggest_fan contains a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
