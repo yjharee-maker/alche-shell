@@ -20,4 +20,5 @@
 19-AZ changes 'Ac' to 'Ze'.
 20-hiago removes all c and C from a file, line,...
 21-reverse reverses the input.
+22-users_and_homes writes a script that displays all users and their home directories, sorted by users, based on the the /etc/passwd file.
 
