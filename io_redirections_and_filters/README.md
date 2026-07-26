@@ -18,4 +18,5 @@
 17-hidethisword displays all files in etc/passwd except those who contain "bin".
 18-letteronly displays all lines starting with letters in file /etc/ssh/sshd_config.
 19-AZ changes 'Ac' to 'Ze'.
+20-hiago removes all c and C from a file, line,...
 
