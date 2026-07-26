@@ -11,4 +11,4 @@
 10-no_more_js writes a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 11-directories writes a script that counts the no. of dir and subdir in the current dir excluding the current and parent dir.
 12-newest_files writes a script that list the 10 newly modified, and latest files.
-
+13-unique sort the words that come only once in a list.
