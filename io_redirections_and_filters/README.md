@@ -8,4 +8,5 @@
 7-file contains a script that creates a file containing 'Best School'
 8-cwd_state contains a script that creates or override a file to contain ls -la.
 9-duplicate_last_line contains a script that duplicates the last line of iacta
+10-no_more_js writes a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 
