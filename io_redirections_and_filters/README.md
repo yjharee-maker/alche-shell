@@ -19,4 +19,5 @@
 18-letteronly displays all lines starting with letters in file /etc/ssh/sshd_config.
 19-AZ changes 'Ac' to 'Ze'.
 20-hiago removes all c and C from a file, line,...
+21-reverse reverses the input.
 
