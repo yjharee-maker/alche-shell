@@ -6,4 +6,5 @@
 5-local_variables tells the variables in the local environment only.
 6-create_local_variable creates a local variable BEST containing "School".
 7-create_global_variable creates a global variable BEST containg "School".
+8-true_knowledge prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 
