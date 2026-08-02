@@ -4,5 +4,6 @@
 3-paths change : to a new line.
 4-global_variables tells the variables in the environment.
 5-local_variables tells the variables in the local environment only.
-6-create_local_variable creates a local variable BEST containing school.
+6-create_local_variable creates a local variable BEST containing "School".
+7-create_global_variable creates a global variable BEST containg "School".
 
