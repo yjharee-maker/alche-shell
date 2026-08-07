@@ -8,4 +8,5 @@
 7-create_global_variable creates a global variable BEST containg "School".
 8-true_knowledge prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 9-divide_and_rule prints the result of power/divide, followed by a new line.
+10-love_exponent_breath prints the exponential of BREATH to LOVE.
 
