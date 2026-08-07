@@ -3,4 +3,4 @@
 3-until_best_school display Best School 10 times using until loop.
 4-if_9_say_hi display Best School 10 times using while loop and on the 9th loop it displays "Hi".
 5-4_bad_luck_8_is_your_chance display Best School 8 times in a 10 while loop. The other 2 displays are bad luck and good luck on the 4th and 8th loop respectively.
-
+6-superstitious_numbers display no. 1-20 and the bad luck no. from China, Japan, and Italy; 4,9,17.
