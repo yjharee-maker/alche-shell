@@ -5,4 +5,5 @@
 5-4_bad_luck_8_is_your_chance display Best School 8 times in a 10 while loop. The other 2 displays are bad luck and good luck on the 4th and 8th loop respectively.
 6-superstitious_numbers display no. 1-20 and the bad luck no. from China, Japan, and Italy; 4,9,17.
 7-clock display time of 12 hours and 59 minutes.
+8-for_ls lists the current directory's contents without the "(*-)"  in front amd each on a new line*.
 

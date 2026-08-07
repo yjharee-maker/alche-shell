@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Display the list of the current dir without the *- part. Each on a new line.
+for file in *; do
+	echo "${file#*-}"
+done
