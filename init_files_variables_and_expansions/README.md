@@ -12,4 +12,5 @@
 11-binary_to_decimal changes binary to decimal.
 12-combinations has all combinations from aa to zz excluding oo.
 13-print_float prints the NUM variable with exactly 2 d.p.
+14-decimal_to_hexadecimal changes decimal to hexadecimal.
 
