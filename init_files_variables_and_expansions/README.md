@@ -15,4 +15,4 @@
 14-decimal_to_hexadecimal changes decimal to hexadecimal.
 15-rot13 uses rot13 to encrypt and decrypt a file or text.
 16-odd prints every other line in a text or file.
-
+17-water_and_stir adds 2 env variables and show the results.
