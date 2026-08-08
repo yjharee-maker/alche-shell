@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Display current PID of this Bash being used.
+echo "$$"
