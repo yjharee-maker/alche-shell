@@ -9,4 +9,5 @@
 9-to_file_or_not_to_file tells if a file exists or not, if it is a regular file and if it is empty or not.
 10-fizzbuzz displays fizzbuzz, fizz, buzz for multiples of 3 and 5, 3, and 5 respectively.
 11-read_and_cut display 3 fields from /etc/passwd.
+12-tell_the_story_of_passwd displays the story of /etc/passwd.
 
