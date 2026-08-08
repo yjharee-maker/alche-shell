@@ -7,4 +7,5 @@
 7-clock display time of 12 hours and 59 minutes.
 8-for_ls lists the current directory's contents without the "(*-)"  in front amd each on a new line*.
 9-to_file_or_not_to_file tells if a file exists or not, if it is a regular file and if it is empty or not.
+10-fizzbuzz displays fizzbuzz, fizz, buzz for multiples of 3 and 5, 3, and 5 respectively.
 
