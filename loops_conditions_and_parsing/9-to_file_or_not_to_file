@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # This file shows if a file school exists or not, if it is empty or not and if it is a regular file.
 if [ -e school ]; then
-	echo "school file exist"
+	echo "school file exists"
 	if [ -s school ]; then
-		echo "school file is not empty "
+		echo "school file is not empty"
 	else
-		echo "school file is empty "
+		echo "school file is empty"
 	fi
 	if [ -f school ]; then
 		echo "school is a regular file"
