@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+# Manages manage_my_process by starting, stopping, or restarting it
+
+case "$1" in
+	start)
+		# Start the process in the background
+		./manage_my_process &
+		# Save the PID of the background process
+		echo $! > /var/run/my_process.pid
+		# Display the start message
+		echo "manage_my_process started"
+		;;
+	stop)
+		# Stop the process using the PID stored in the PID file
+		kill "$(cat /var/run/my_process.pid)"
+		# Delete the PID file
+		rm -f /var/run/my_process.pid
+		# Display the stop message
+		echo "manage_my_process stopped"
+		;;
+	restart)
+		# Stop the current process
+		kill "$(cat /var/run/my_process.pid)"
+		# Delete the old PID file
+		rm -f /var/run/my_process.pid
+		# Start a new process in the background
+		./manage_my_process &
+		# Save the new process PID
+		echo $! > /var/run/my_process.pid
+		# Display the restart message
+		echo "manage_my_process restarted"
+		;;
+	*)
+		# Display usage instructions for an invalid argument
+		echo "Usage: manage_my_process {start|stop|restart}"
+		;;
+esac
