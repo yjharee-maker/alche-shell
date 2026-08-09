@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# Loop through processes in /proc and display those whose name contains bash
+for pid in /proc/[0-9]*; do
+	if [ -f "$pid/comm" ]; then
+		name=$(cat "$pid/comm")
+		case "$name" in
+			*bash*)
+				echo "$(basename "$pid") $name"
+				;;
+		esac
+	fi
+done
